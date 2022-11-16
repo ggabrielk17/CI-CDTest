@@ -1,6 +1,6 @@
 {
   "name": "CICDTest",
-  "description": "Proceso en blanco",
+  "description": "CICDTest",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
