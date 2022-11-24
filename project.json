@@ -1,19 +1,18 @@
 {
-  "name": "CICDTest",
-  "description": "CICDTest",
+  "name": "TheFirstBot",
+  "description": "Get and Process Data with UiPath\r\n",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.16.0]",
-    "UiPath.Mail.Activities": "[1.18.1]",
-    "UiPath.System.Activities": "[22.10.3]",
-    "UiPath.Testing.Activities": "[22.10.0]",
-    "UiPath.UIAutomation.Activities": "[22.10.3]"
+    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Mail.Activities": "[1.15.2]",
+    "UiPath.System.Activities": "[22.4.1]",
+    "UiPath.UIAutomation.Activities": "[22.4.5]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "22.10.3.0",
-  "projectVersion": "1.0.10",
+  "studioVersion": "22.4.3.0",
+  "projectVersion": "1.0.12",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -48,7 +47,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "684b6532-9d46-4227-95f0-ce2fba200fae",
+      "uniqueId": "addc4775-1e15-460f-b7a5-0572cc2034ba",
       "input": [],
       "output": []
     }
@@ -56,5 +55,5 @@
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},
-  "targetFramework": "Windows"
+  "targetFramework": "Legacy"
 }
